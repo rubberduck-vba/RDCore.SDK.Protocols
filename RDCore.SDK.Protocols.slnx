@@ -1,0 +1,25 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+    <File Path=".gitattributes" />
+    <File Path=".gitignore" />
+    <File Path="Directory.Build.props" />
+    <File Path="README.md" />
+    <File Path="README.fr.md" />
+    <File Path="LICENSE" />
+  </Folder>
+  <Folder Name="/Solution Items/Build/">
+    <File Path=".github/workflows/build.yml" />
+    <File Path=".github/workflows/release.yml" />
+    <File Path=".github/workflows/cla.yml" />
+    <File Path=".github/workflows/documentation.yml" />
+  </Folder>
+  <Folder Name="/Documentation/">
+    <File Path="docs/docfx.json" />
+    <File Path="docs/index.md" />
+    <File Path="docs/index.fr.md" />
+    <File Path="docs/toc.yml" />
+  </Folder>
+  <Project Path="RDCore.SDK.Protocols/RDCore.SDK.Protocols.csproj" />
+  <Project Path="RDCore.SDK.Protocols.Tests/RDCore.SDK.Protocols.Tests.csproj" />
+</Solution>
